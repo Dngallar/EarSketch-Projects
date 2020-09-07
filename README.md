@@ -1,2 +1,2 @@
-# EarSketch-Projects
+# EarSketch Projects
 EarSketch Projects
